@@ -147,21 +147,21 @@ export default function Contact() {
                   <span className="text-2xl mt-1">📧</span>
                   <div>
                     <span className="font-bold text-gray-900">Email:</span><br />
-                    <span className="text-indigo-800">connect@manasfoundation.org</span>
+                    <span className="text-indigo-800">manasfoundation2025@gmail.com</span>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
                   <span className="text-2xl mt-1">📱</span>
                   <div>
                     <span className="font-bold text-gray-900">Phone:</span><br />
-                    <span className="text-indigo-800">+91-98765-43210</span>
+                    <span className="text-indigo-800">+91-8390354555</span>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
                   <span className="text-2xl mt-1">📍</span>
                   <div>
                     <span className="font-bold text-gray-900">Address:</span><br />
-                    <span className="text-indigo-800">123 Empowerment Street<br />New Delhi, India - 110001</span>
+                    <span className="text-indigo-800">Tulsi Nagar<br />Buldhana, Maharashtra - 443001</span>
                   </div>
                 </div>
               </div>
